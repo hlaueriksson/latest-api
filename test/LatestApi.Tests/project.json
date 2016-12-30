@@ -5,6 +5,8 @@
       "LatestApi": {
          "target": "project"
       },
+      "CommandQuery": "0.1.1",
+      "Microsoft.AspNetCore.TestHost": "1.0.0",
       "dotnet-test-xunit": "2.2.0-preview2-build1029",
       "xunit": "2.2.0-beta2-build3300",
       "OpenCover": "4.6.519",
